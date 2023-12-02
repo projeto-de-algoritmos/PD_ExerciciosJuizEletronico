@@ -16,18 +16,18 @@ Este repositório contém a resolução de exercícios do site [LeetCode](https:
 
 ## Screenshots
 
-## Exercicio 1 - xxxx
+## Exercicio 1 - Longest Palindromic Substring
 
-Dificuldade: xxx<br>
-Link: []()
+Dificuldade: Médio<br>
+Link: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 
 ![](assets/img/exec1.png)
 
-## Exercicio 2 - xxxx
+## Exercicio 2 - House Robber
 
-Dificuldade: xxxx <br>
-Link: []()
+Dificuldade: Médio<br>
+Link: [House Robber](https://leetcode.com/problems/house-robber/)
 
 ![](assets/img/exec2.png)
 
