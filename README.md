@@ -25,10 +25,13 @@ Link: [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-pa
 ![](assets/img/exec1.png)
 
 
+
 ## Exercicio 2 - 
 
 Dificuldade: Difícil<br>
-Link: [xxxx]()
+Link: [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
+No problema acima, a programação dinâmica se dá na quebra do problema em subproblemas (alturas maximas esquerda e direita) e armazenamento dessas soluções, evitando repetição de calculos.
 
 ![](assets/img/exec2.png)
 
