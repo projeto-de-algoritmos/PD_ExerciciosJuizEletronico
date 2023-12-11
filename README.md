@@ -26,7 +26,7 @@ Link: [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-pa
 
 
 
-## Exercicio 2 - 
+## Exercicio 2 - Trapping Rain Water
 
 Dificuldade: Difícil<br>
 Link: [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
