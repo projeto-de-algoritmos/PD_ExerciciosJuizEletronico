@@ -16,36 +16,21 @@ Este repositório contém a resolução de exercícios do site [LeetCode](https:
 
 ## Screenshots
 
-## Exercicio 1 - Longest Palindromic Substring
+## Exercicio 1 - Longest Valid Parentheses
 
-Dificuldade: Médio<br>
-Link: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+Dificuldade: Difícil<br>
+Link: [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)
 
 
 ![](assets/img/exec1.png)
 
-## Exercicio 2 - House Robber
 
-Dificuldade: Médio<br>
-Link: [House Robber](https://leetcode.com/problems/house-robber/)
+## Exercicio 2 - 
+
+Dificuldade: Difícil<br>
+Link: [xxxx]()
 
 ![](assets/img/exec2.png)
-
-
-## Exercicio 3 - xxxx
-
-Dificuldade: xxxx <br>
-Link: []()
-
-
-![](assets/img/exec3.png)
-
-## Exercicio 4 - xxxx
-
-Dificuldade: xxxx <br>
-Link: []()
-
-![](assets/img/exec4.png)
 
 
 ## Instalação 
