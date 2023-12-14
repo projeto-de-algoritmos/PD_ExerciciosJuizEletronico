@@ -23,6 +23,7 @@ https://github.com/projeto-de-algoritmos/PD_ExerciciosJuizEletronico/assets/1227
 Dificuldade: Difícil<br>
 Link: [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)
 
+Neste exemplo de algoritmo que envolve programação dinâmica, foi utilizado uma pilha para deixar a complexidade, que antes era O(n³) por força bruta, em linear O(n)
 
 ![](assets/img/exec1.png)
 
