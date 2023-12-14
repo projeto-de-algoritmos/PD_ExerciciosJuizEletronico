@@ -12,7 +12,9 @@
 ## Sobre 
 Este repositório contém a resolução de exercícios do site [LeetCode](https://leetcode.com/) relacionados a Programação Dinâmica, contemplando alguns dos principais algoritmos deste conteúdo.
 
-## [Link da Apresentação]()
+## Vídeo de Apresentação
+
+https://github.com/projeto-de-algoritmos/PD_ExerciciosJuizEletronico/assets/12275797/397bb4ee-13d5-4332-ba0c-17de646cebcd
 
 ## Screenshots
 
