@@ -14,7 +14,9 @@ Este repositório contém a resolução de exercícios do site [LeetCode](https:
 
 ## Vídeo de Apresentação
 
-https://github.com/projeto-de-algoritmos/PD_ExerciciosJuizEletronico/assets/12275797/397bb4ee-13d5-4332-ba0c-17de646cebcd
+
+https://github.com/projeto-de-algoritmos/PD_ExerciciosJuizEletronico/assets/12275797/bc3eb330-1fda-48fc-9cbe-88705dcca028
+
 
 ## Screenshots
 
